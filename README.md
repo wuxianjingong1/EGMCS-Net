@@ -9,7 +9,6 @@ This project implements an **Edge-Guided Multi-Branch Network** for underwater i
 ![images](https://github.com/wuxianjingong1/EGMCS-Net/blob/main/model.png)
 *Illustration of the Edge-Guided Multi-Branch network, including the RGB branch, edge branch, and fusion modules.*
 
-> Replace `docs/architecture.png` with your actual network diagram.
 
 ## Environment
 
@@ -22,7 +21,6 @@ Example of creating the environment:
 conda create -n uienv python=3.11
 conda activate uienv
 pip install torch==2.1.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-pip install -r requirements.txt
 ```
 
 ## Datasets
@@ -89,9 +87,3 @@ Uses the trained model to perform enhancement on the test set and saves the resu
 
 ---
 
-You may optionally add:
-
-* Training parameters (batch size, learning rate, epochs)
-* Pretrained model checkpoints and instructions to load them
-* Output/result directory structure
-* Example comparison results (before/after images)
