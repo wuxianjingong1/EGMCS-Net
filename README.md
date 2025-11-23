@@ -6,7 +6,7 @@ This project implements an **Edge-Guided Multi-Branch Network** for underwater i
 
 ## Architecture
 
-![architecture](docs/architecture.png)
+![images](https://github.com/wuxianjingong1/EGMCS-Net/blob/main/model.png)
 *Illustration of the Edge-Guided Multi-Branch network, including the RGB branch, edge branch, and fusion modules.*
 
 > Replace `docs/architecture.png` with your actual network diagram.
