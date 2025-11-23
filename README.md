@@ -64,7 +64,7 @@ project_root/
 1. **Generate Edge Maps**
 
 ```bash
-python utils.py
+python util/generate_edge_maps.py
 ```
 
 Generates edge maps for the dataset (e.g., UIEB) for both training and testing.
