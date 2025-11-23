@@ -87,3 +87,5 @@ Uses the trained model to perform enhancement on the test set and saves the resu
 
 ---
 
+Note: This is an initial version of the code. More details and updates will be publicly released in the future.
+
