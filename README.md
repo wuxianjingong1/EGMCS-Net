@@ -89,3 +89,5 @@ Uses the trained model to perform enhancement on the test set and saves the resu
 
 Note: This is an initial version of the code. More details and updates will be publicly released in the future.
 
+This code repository is directly related to the manuscript we submitted to The Visual Computer. We will provide citation information once the manuscript is accepted.
+
